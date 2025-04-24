@@ -1,0 +1,10 @@
+NLP-comp 1-math contains my very first NLP model for the competition 
+@misc{classification-of-math-problems-by-kasut-academy,
+    author = {KAChallenges and Mohamed Eltayeb},
+    title = {KAChallenges Series 1: Classifying Math Problems},
+    year = {2025},
+    howpublished = {\url{https://kaggle.com/competitions/classification-of-math-problems-by-kasut-academy}},
+    note = {Kaggle}
+}
+
+initial eval score 0.8297
